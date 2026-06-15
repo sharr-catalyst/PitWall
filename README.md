@@ -136,8 +136,8 @@ docker-compose up --build
 
 **4. Verify connection status:**
 
-- Frontend Dashboard: [http://localhost:3000](http://localhost:3000)
-- FastAPI Healthcheck Gateway: [http://localhost:8000/health](http://localhost:8000/health)
+- Frontend Dashboard:
+- FastAPI Healthcheck Gateway: 
 
 ---
 
